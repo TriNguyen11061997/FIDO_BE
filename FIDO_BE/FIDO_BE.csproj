@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190401101719_Tri1.cs" />
+    <Compile Remove="Migrations\20190401101719_Tri1.Designer.cs" />
+    <Compile Remove="Migrations\20190401102119_Tri1.cs" />
+    <Compile Remove="Migrations\20190401102119_Tri1.Designer.cs" />
+    <Compile Remove="Migrations\20190401102410_Tri1.cs" />
+    <Compile Remove="Migrations\20190401102410_Tri1.Designer.cs" />
+    <Compile Remove="Migrations\20190401102553_Tri1.cs" />
+    <Compile Remove="Migrations\20190401102553_Tri1.Designer.cs" />
+    <Compile Remove="Migrations\20190401104134_Tri1.cs" />
+    <Compile Remove="Migrations\20190401104134_Tri1.Designer.cs" />
+    <Compile Remove="Migrations\20190401105932_Tri2.cs" />
+    <Compile Remove="Migrations\20190401105932_Tri2.Designer.cs" />
+    <Compile Remove="Migrations\20190401112955_Tri2.cs" />
+    <Compile Remove="Migrations\20190401112955_Tri2.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+</Project>

@@ -21,7 +21,7 @@ namespace FIDO_BE.Controllers
 
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<ADUserGroups>> Get()
+        public ActionResult<IEnumerable<ADUserGroup>> Get()
         {
             return _context.ADUserGroups.ToList();
         }

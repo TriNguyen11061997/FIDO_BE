@@ -12,3 +12,17 @@ F:\KTHDV\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.AssemblyInfo.cs
 F:\KTHDV\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.RazorTargetAssemblyInfo.cache
 F:\KTHDV\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.dll
 F:\KTHDV\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.pdb
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\bin\Debug\netcoreapp2.1\FIDO_BE.deps.json
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\bin\Debug\netcoreapp2.1\FIDO_BE.runtimeconfig.json
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\bin\Debug\netcoreapp2.1\FIDO_BE.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\bin\Debug\netcoreapp2.1\FIDO_BE.dll
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\bin\Debug\netcoreapp2.1\FIDO_BE.pdb
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.AssemblyInfo.cs
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.dll
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.pdb

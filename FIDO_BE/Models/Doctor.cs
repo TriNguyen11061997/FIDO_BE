@@ -31,7 +31,7 @@ namespace FIDO_BE.Models
         [StringLength(50)]
         public string DoctorNo { get; set; }
 
-        [StringLength(50)]
+        [StringLength(100)]
         public string DoctorName { get; set; }
 
         [StringLength(50)]

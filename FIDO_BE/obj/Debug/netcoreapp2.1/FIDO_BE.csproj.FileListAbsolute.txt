@@ -26,3 +26,4 @@ C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.AssemblyI
 C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.RazorTargetAssemblyInfo.cache
 C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.dll
 C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\FIDO_BE.pdb
+C:\Users\Admin\Desktop\FIDO_BE\FIDO_BE\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

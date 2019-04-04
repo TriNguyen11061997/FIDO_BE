@@ -78,6 +78,7 @@ namespace FIDO_BE.Models
 
         public int? FK_EmployeeID { get; set; }
         [ForeignKey("FK_EmployeeID")]
+        public virtual Employee Employee { get; set; }
 
         [StringLength(10)]
         public string DoctorSpecialist { get; set; }
@@ -101,7 +102,6 @@ namespace FIDO_BE.Models
 
         public virtual ICollection<Contact> Contacts { get; set; }
 
-        public virtual Employee Employee { get; set; }
 
 
         public virtual ICollection<Forum> Forums { get; set; }

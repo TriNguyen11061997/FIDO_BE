@@ -14,8 +14,8 @@ namespace FIDO_BE.Models
         public string AAStatus { get; set; }
 
         public virtual ADUserGroup ADUserGroup { get; set; }
-        public int ADUserGroupID { get; set; }
         [ForeignKey("ADUserGroupID")]
+        public int ADUserGroupID { get; set; }
 
         public int? FK_ReferenceID { get; set; }
 

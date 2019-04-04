@@ -7,11 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using FIDO_BE.Data;
 using FIDO_BE.Models;
+using Microsoft.AspNetCore.Cors;
 
 namespace FIDO_BE.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [EnableCors("CorsPolicy")]
     public class DoctorsController : ControllerBase
     {
         private readonly FIDOContext _context;

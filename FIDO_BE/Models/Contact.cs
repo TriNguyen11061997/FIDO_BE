@@ -15,9 +15,11 @@ namespace FIDO_BE.Models
 
         public int? FK_DoctorID { get; set; }
         [ForeignKey("FK_DoctorID")]
+        public virtual Doctor Doctor { get; set; }
 
         public int? FK_PatientID { get; set; }
         [ForeignKey("FK_PatientID")]
+        public virtual Patient Patient { get; set; }
 
         [StringLength(500)]
         public string ContactContent { get; set; }
@@ -25,8 +27,8 @@ namespace FIDO_BE.Models
         [StringLength(50)]
         public string ContactStatus { get; set; }
 
-        public virtual Doctor Doctor { get; set; }
+       
 
-        public virtual Patient Patient { get; set; }
+       
     }
 }

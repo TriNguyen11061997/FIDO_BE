@@ -97,6 +97,7 @@ namespace FIDO_BE.Controllers
             return CreatedAtAction("GetPatient", new { id = patient.PatientID }, patient);
         }
 
+
         // DELETE: api/Patients/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeletePatient([FromRoute] int id)
